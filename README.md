@@ -5,10 +5,12 @@ The Proffy project, an online learning platform, was an open-source project deve
 
 This event had five days, from Monday to Friday, with exclusive and free materials, separated into:
 
-✅ "Accelerating Your Evolution"
-✅ "Looking at opportunities"
-✅ "Looking at opportunities"
-✅ "The Stack's Choice"
-✅ "Up to two years in 2 months"
-✅ "The extra mile"
+*✅ "Accelerating Your Evolution"
+*✅ "Looking at opportunities"
+*✅ "Looking at opportunities"
+*✅ "The Stack's Choice"
+*✅ "Up to two years in 2 months"
+*✅ "The extra mile"
+
+Project still under development and will be improved.
 
